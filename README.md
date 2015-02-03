@@ -1,4 +1,4 @@
-# sitecore-salesforce-connect
+# Sitecore Salesforce Connect
 Integrates Sitecore with Salesforce.com by exposing Salesforce contacts as Sitecore users and saving Salesforce contact data in the Sitecore Experience Database (xDB).
 
 ### Requirements
