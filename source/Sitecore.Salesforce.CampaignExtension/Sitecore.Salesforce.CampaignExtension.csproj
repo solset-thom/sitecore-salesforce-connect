@@ -35,19 +35,19 @@
       <HintPath>..\Website\bin\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="Sitecore.Client">
-      <HintPath>..\Website\bin\Sitecore.Client.dll</HintPath>
+      <HintPath>..\..\external\Sitecore.Client.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Sitecore.Kernel">
-      <HintPath>..\Website\bin\Sitecore.Kernel.dll</HintPath>
+      <HintPath>..\..\external\Sitecore.Kernel.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Sitecore.Salesforce">
-      <HintPath>..\Website\bin\Sitecore.Salesforce.dll</HintPath>
+      <HintPath>..\Sitecore.Salesforce\bin\Debug\Sitecore.Salesforce.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Sitecore.Salesforce.Client">
-      <HintPath>..\Website\bin\Sitecore.Salesforce.Client.dll</HintPath>
+      <HintPath>..\Sitecore.Salesforce.Client\bin\Debug\Sitecore.Salesforce.Client.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System" />
