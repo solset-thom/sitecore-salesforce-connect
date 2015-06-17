@@ -46,20 +46,20 @@
       <Private>False</Private>
     </Reference>
     <Reference Include="Sitecore.Analytics">
-      <HintPath>..\..\..\..\..\..\Sitecore\sc80\Website\bin\Sitecore.Analytics.dll</HintPath>
+      <HintPath>..\..\external\Sitecore.Analytics.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Sitecore.Analytics.Model">
-      <HintPath>..\..\..\..\..\..\Sitecore\sc80\Website\bin\Sitecore.Analytics.Model.dll</HintPath>
+      <HintPath>..\..\external\Sitecore.Analytics.Model.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Sitecore.Integration.Common, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\packages\Sitecore.Integration.Common.1.0.45\lib\net45\Sitecore.Integration.Common.dll</HintPath>
+      <HintPath>..\..\external\Sitecore.Integration.Common.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Sitecore.Kernel">
-      <HintPath>..\..\..\..\..\..\Sitecore\sc80\Website\bin\Sitecore.Kernel.dll</HintPath>
+      <HintPath>..\..\external\Sitecore.Kernel.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="System.Data" />
